@@ -1,0 +1,21 @@
+{
+  "name": "gauhati-university-it-dept",
+  "version": "1.0.0",
+  "description": "Website for Department of Information Technology at Gauhati University",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["university", "it", "department", "website"],
+  "author": "",
+  "license": "ISC"
+}
